@@ -1,3 +1,9 @@
+# Ignore everything but content
+/UnrealRPG/Build
+/UnrealRPG/Content/StarterContent
+/UnrealRPG/Intermediate
+/UnrealRPG/Saved
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
