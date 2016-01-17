@@ -2,7 +2,15 @@
 /UnrealRPG/Build
 /UnrealRPG/Content/StarterContent
 /UnrealRPG/Intermediate
-/UnrealRPG/Saved
+/UnrealRPG/Saved/Logs
+/UnrealRPG/Saved/Collections
+/UnrealRPG/Saved/Backup
+/UnrealRPG/Saved/Autosaves
+/UnrealRPG/Saved/Cooked
+/UnrealRPG/Saved/StagedBuilds
+/UnrealRPG/Saved/Stats
+/UnrealRPG/Saved/AutoScreenshot.png
+
 
 # Windows image file caches
 Thumbs.db
