@@ -1,0 +1,129 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    UnrealRPG/Content/Enemy/Enemy.uasset
+#	deleted:    UnrealRPG/Content/Enemy/Trap.uasset
+#	deleted:    UnrealRPG/Content/ThirdPersonBP/Blueprints/MyCharacterBlueprint.uasset
+#	modified:   UnrealRPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+#	deleted:    UnrealRPG/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+#	deleted:    UnrealRPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+#	deleted:    UnrealRPG/Content/Weapons/Shield/Shield_Metal.uasset
+#	modified:   UnrealRPG/Content/Weapons/Shield/shield.uasset
+#
+# Changes not staged for commit:
+#	modified:   UnrealRPG/Config/DefaultEngine.ini
+#	modified:   UnrealRPG/Config/DefaultGame.ini
+#	modified:   UnrealRPG/Config/DefaultInput.ini
+#	deleted:    UnrealRPG/Content/Enemy/EnemyPawn.uasset
+#	deleted:    UnrealRPG/Content/Enemy/Enemy_AnimBP.uasset
+#	deleted:    UnrealRPG/Content/Geometry/Meshes/1M_Cube.uasset
+#	deleted:    UnrealRPG/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+#	deleted:    UnrealRPG/Content/Geometry/Meshes/Bump_StaticMesh.uasset
+#	deleted:    UnrealRPG/Content/Geometry/Meshes/CubeMaterial.uasset
+#	deleted:    UnrealRPG/Content/Geometry/Meshes/LeftArm_StaticMesh.uasset
+#	deleted:    UnrealRPG/Content/Geometry/Meshes/Linear_Stair_StaticMesh.uasset
+#	deleted:    UnrealRPG/Content/Geometry/Meshes/RampMaterial.uasset
+#	deleted:    UnrealRPG/Content/Geometry/Meshes/Ramp_StaticMesh.uasset
+#	deleted:    UnrealRPG/Content/Geometry/Meshes/RightArm_StaticMesh.uasset
+#	deleted:    UnrealRPG/Content/Geometry/Meshes/TemplateFloor.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/Character_AnimBP.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/Character_AnimPB.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/Crouch_Locomotion_old.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/Idle.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/Jab.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/Left_Block.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/Locomotion.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/Run.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/Slash.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/Slash_Static.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/Walk.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/character3_HighPolyEyes_Eye_brown.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/character3_Skin.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/character3idle.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/character3idle_Anim_character3Action.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/character3idle_PhysicsAsset.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/character3idle_Skeleton.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/crouchidle_PhysicsAsset.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/crouchidle_olD.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/crouchwalk_old.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/jab_character3Action.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/jump_fall.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/jump_land.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/jump_start.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/jump_start_quick.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/killme.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/left_block_character3Action.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations/slash_static_character3Action.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations_Big/Crouch_Locomotion.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations_Big/NewBlendSpace1D.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations_Big/crouchidle.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Animations_Big/crouchwalk.uasset
+#	modified:   UnrealRPG/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset
+#	modified:   UnrealRPG/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset
+#	modified:   UnrealRPG/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Character/Mesh/Character_PhysicsAsset.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Character/Mesh/Character_SM.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Character/Mesh/Character_SkeletonSmall.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Character/Mesh/Character_small.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Character/Mesh/character.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Character/Mesh/character_Skeleton.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Character/Textures/Character_Eyes.uasset
+#	deleted:    UnrealRPG/Content/Mannequin/Character/Textures/Character_Skin.uasset
+#	deleted:    UnrealRPG/Content/SK_Mannequin.FBX
+#	deleted:    UnrealRPG/Content/ThirdPersonBP/Material_001__swordtexture_jpg.uasset
+#	deleted:    UnrealRPG/Content/ThirdPersonBP/Material__swordtexture_jpg.uasset
+#	deleted:    UnrealRPG/Content/ThirdPersonBP/swordtexture.uasset
+#	deleted:    UnrealRPG/Content/Weapons/Shield/Shield_Wood.uasset
+#	modified:   UnrealRPG/Content/Weapons/Shield/shield_normal.uasset
+#	modified:   UnrealRPG/Content/Weapons/Shield/shield_texture.uasset
+#	deleted:    UnrealRPG/Content/Weapons/SteelSword/SteelSwordMaterial.uasset
+#	deleted:    UnrealRPG/Content/Weapons/SteelSword/sword.uasset
+#	deleted:    UnrealRPG/Content/Weapons/SteelSword/sword_texture.uasset
+#	deleted:    UnrealRPG/Content/Weapons/TribalSword/TribalSwordMaterial.uasset
+#	deleted:    UnrealRPG/Content/Weapons/TribalSword/Tribal_Sword.uasset
+#	deleted:    UnrealRPG/Content/Weapons/TribalSword/swordtexture.uasset
+#	deleted:    UnrealRPG/Content/Weapons/shield.uasset
+#	deleted:    UnrealRPG/UnrealRPG.uproject
+#
+# Untracked files:
+#	UnrealRPG/Content/GameContent/
+#	UnrealRPG/Content/LevelContent/
+#	UnrealRPG/Content/Mannequin/Animations/ThirdPersonIdle.uasset
+#	UnrealRPG/Content/Mannequin/Animations/ThirdPersonJump_End.uasset
+#	UnrealRPG/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+#	UnrealRPG/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset
+#	UnrealRPG/Content/Mannequin/Animations/ThirdPersonRun.uasset
+#	UnrealRPG/Content/Mannequin/Animations/ThirdPersonWalk.uasset
+#	UnrealRPG/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+#	UnrealRPG/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+#	UnrealRPG/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+#	UnrealRPG/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+#	UnrealRPG/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+#	UnrealRPG/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+#	UnrealRPG/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset
+#	UnrealRPG/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+#	UnrealRPG/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset
+#	UnrealRPG/Content/MyMainCharacter/
+#	UnrealRPG/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset
+#	UnrealRPG/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset
+#	UnrealRPG/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset
+#	UnrealRPG/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset
+#	UnrealRPG/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset
+#	UnrealRPG/Content/ThirdPersonBP/Blueprints/MyMainCharacter.uasset
+#	UnrealRPG/Content/Weapons/Shield/ShieldMetal_Material.uasset
+#	UnrealRPG/Content/Weapons/Shield/ShieldWood_Material.uasset
+#	UnrealRPG/Content/Weapons/Shield/Shield_NormalMap.uasset
+#	UnrealRPG/Content/Weapons/Shield/Shield_SM.uasset
+#	UnrealRPG/Content/Weapons/SteelSword/SteelSword_Material.uasset
+#	UnrealRPG/Content/Weapons/SteelSword/SteelSword_SM.uasset
+#	UnrealRPG/Content/Weapons/SteelSword/SteelSword_Texture.uasset
+#	UnrealRPG/Content/Weapons/TribalSword/TribalSword_Material.uasset
+#	UnrealRPG/Content/Weapons/TribalSword/TribalSword_SM.uasset
+#	UnrealRPG/Content/Weapons/TribalSword/Tribal_Sword_Texture.uasset
+#	UnrealRPG/UnrealRPG2.uproject
+#
+
